@@ -76,3 +76,4 @@ DerivedDataCache/*
 # Project specific files
 # blender cache
 *.blend1
+*_RetopoFlow_AutoSave.blend
